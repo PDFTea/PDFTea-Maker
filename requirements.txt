@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 flask
 gunicorn
 flask-cors
 
+=======
+flask
+gunicorn
+>>>>>>> 9dc5a799b5806699c835ddd26bc650c5b63f2801
