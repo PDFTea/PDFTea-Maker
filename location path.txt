@@ -1,0 +1,8 @@
+cd C:\Users\Kenneth Wanyoto\Documents\PDFTea Scripts
+
+https://github.com/PDFTea/PDFTea-Maker.git
+
+
+git remote add origin https://github.com/PDFTea/PDFTea-Maker.git
+
+
