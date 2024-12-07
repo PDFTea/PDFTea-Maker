@@ -1,9 +1,9 @@
-<<<<<<< HEAD
-flask
-gunicorn
-flask-cors
-
-=======
-flask
-gunicorn
->>>>>>> 9dc5a799b5806699c835ddd26bc650c5b63f2801
+Flask==3.1.0
+waitress==3.0.2
+python-dotenv==1.0.1
+blinker==1.9.0
+Werkzeug==3.1.3
+Jinja2==3.1.4
+itsdangerous==2.2.0
+click==8.1.7
+colorama==0.4.6
